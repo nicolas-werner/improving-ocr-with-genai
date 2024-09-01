@@ -48,8 +48,6 @@ env/
 *.bak
 *.swp
 
-# Ignore all files in the data folder
-/data/*
 
 # Ignore Jupyter Notebook checkpoints
 .ipynb_checkpoints/

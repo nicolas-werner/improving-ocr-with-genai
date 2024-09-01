@@ -27,3 +27,5 @@ poetry shell
 ```bash
 OPENAI_API_KEY=
 ```
+
+5. Führe das Notebook `openai_ocr.ipynb` in `/notebooks` aus.
