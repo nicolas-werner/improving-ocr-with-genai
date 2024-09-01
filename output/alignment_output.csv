@@ -1,0 +1,91 @@
+ground_truth,distincta ,maculis,", ",virtute ,et ,velocitate ,mirabilis,", ",,ex ,cuius,\ ,nomine ,flumen ,Tygris ,appellatur,", ",quod ,is ,rapidissimus ,sit,\ ,omnium ,fluviorum,. ,Has ,magis ,Hircania ,gignit,. ,Tigris ,\ ,vero ,ubi ,vacuum ,rapte ,sobolis ,repperit ,cubile,", ",ilico ,rapto,\ ,ris ,vestigiis ,insistit,. ,At ,ille ,quamvis ,equo ,vectus ,fugaci,", ",vi,\ ,dens ,tamen ,velocitate ,fere ,se ,preverti,", ",nec ,evadendi ,ullum ,sub,\ ,petere ,sibi ,posse ,subsidium,", ",tecnam ,huiusmodi ,,fraude ,mo,\ ,litur,. ,Ubi ,,contiguum ,viderit,", ",speram ,de ,vitro ,proicit,. ,At ,illa ,ymagine ,sui ,luditur,", ",et ,sobolem ,putat,. ,Revocat,\ ,impetum ,colligere ,fetum ,desiderans,. ,Rursus ,inani ,specie,\ ,retenta,", ",totis ,se ,ad ,comprehendum ,equitem ,viribus,\ ,fundit,", ",et ,iracundie ,stimulo ,velociter ,fugienti ,imminet,.\ ,Iterum ,ille ,spere ,obiectu ,sequentem ,retardat,", ",nec ,tamen ,seduli,\ ,tatem ,matris ,memoria ,fraudis ,excludit,. ,Cassam ,versat,\ ,ymaginem,", ",,,et ,quasi ,lactatura ,fetum ,residet,. ,Sicque ,,pietatis,\ ,sue ,studio ,decepta,", ",et ,vindictam ,amittit ,et ,prolem,. \ ,De ,pardo ,\ ,Pardus ,est,\ ,genus ,vari,\,um ,ac ,velo,\,cissimum,", ",et ,pre,\,ceps ,ad ,sangui,\ ,nem,", ",saltu ,\ ,enim ,ad ,mor,\,tem ,ruit,. ,Leo,\ ,,pardus ,ex ,ad,\ ,ulterio ,leene ,nascitur ,et ,pardi,", ",et ,terciam ,originem ,efficit,.\ ,Sicut ,et ,Plenius ,[,Plinius,] ,in ,naturali ,hystoria ,dicit,: ,Leonem ,vim ,[,cum,] ,par,\ ,da,", ",aut ,pardum ,cum ,leena ,concumbere,", ",et ,ex ,utroque ,degeneres,\
+transcribus_result,,clistintamaculis ,.,uirtute ,eruelocitate ,,mirabilis ,,,,"excui
+",,nomine ,flumentẏgris ,,appellatur ,qal ,,is ,rapiclissimꝰ ,"sit
+",,,ommimlluiorum ,,has ,magis ,,huramagignit,. ,"Tigs
+",,,,uubiuacuum ,rapte ,sobolis ,repperit ,cubile,:,ilico ,"rapto
+",,,risuestigns ,insistit,.,At ,ille ,qmuis ,equo ,uectus ,fugaci ,,"ui
+",,clens ,,inuelocitate ,fere ,se ,puerci,. ,nec ,euaclencli ,ullum ,"sub
+",,pete ,sibi ,posse ,subsichunr ,,ternam ,hummocli ,,fraucle ,"mo
+",,litur ,,Abi ,se ,contiguum ,uiclerit,:,speram ,cle ,,uitropicit,".
+",Et ,illa ,ẏmagine ,,suiluclitur ,,et ,sobolem ,putat,.,"Neuosat
+",,impetum ,collige ,fecum ,clesiclerans,.,Nursus ,,"manispecie
+",recenta,. ,,totis ,se ,aclcomphenclenclum ,"equitemuiribz
+",funclit,. ,,,,et ,iracunclie ,stimulo ,uelocit ,fugientiimminet,,".
+",frum ,ille ,spere ,obieccu ,sequentemrecamat,,.,nec ,tn ,"secluli
+",,tatem ,,matrismemoria ,frauclis ,exrcluolit,. ,"qassamuersat
+",,,ymaginem,,,.,et ,,qilaccatura ,fecum ,resiclec,. ,Sicq,: ,"pietatis
+",,sue ,stuclio ,clecepta,:,er ,uinclictam ,amittit ,,etplem,.,"De
+",AAR ,"ASatatsachv
+","parclo
+",arclus ,"e
+","genuari
+",,,um ,ac ,"uelo
+","p
+",er ,,,,,"cepsaclsang
+",,,,nem ,,"saltu
+","emimaclmor
+",,,,,tem ,rint ,• ,lo,"=
+","eAAARGU
+",paralus ,"grail
+",,,ulterio ,"le
+",ascitur ,er ,parli ,,er ,,tercianforiginem ,efficit,".
+",sicut ,er ,plemꝰ ,,,,,mnaturali ,hystoria ,clicit ,. ,Haonemumm ,,,,,"par
+",,cla ,,aut ,,,panlumcleena ,concumbere,.,er ,,erutroq ,"clegeneres
+
+
+",
+gpt-4o,distincra ,maculis,. ,uterque ,crucelocitate ,,immatuit,. ,qui ,"ex
+",,,nomine ,flumen ,cygnus ,appellatur ,quia ,,,rapidissimus ,"sit
+",,omnium ,fluminum,. ,has ,magnit ,humane ,gignit,. ,"Tigris 
+",,,ut ,vacuum ,rapte ,solius ,repercit ,cubile,: ,suo ,"rapo 
+",rus ,reliquis ,,insistit,. ,Ac ,ulver ,qui ,quo ,vacua ,fugac,", ","un
+",,dem ,ordine ,locaturi ,se ,se ,spuent,: ,nec ,evadere ,ullum ,"sub
+",flit ,pree ,sibi ,posse ,subjectum,: ,uternam ,huh ,modum ,fraude ,in ,"can
+",tenur,. ,Ubi ,se ,conspirum ,invaderet,; ,feamine ,,diverso ,peric,".
+",Ac ,illum ,imaginem ,suis ,ludicatur,: ,et ,sololem ,punit,. ,Leo ,"vact
+",impetum ,collegit ,feram ,decludant,. ,Rursus ,nam ,"sperate 
+",neema ,,,dotes ,eam ,comprehendimus ,equorum ,vitum ,"suspra
+",,fundit ,,er ,cracundem ,stimulo ,ulodor ,fugac ,summu ,"innit
+",kam ,inc ,sper ,obdutes ,sequentem ,retarai,. ,nec ,vi ,"sedule
+",tantum ,maneum ,,ova ,fraude ,venduc,. ,Casitan ,quot ,latet ,ease ,"volen
+",imaginem,. ,ac ,ci ,acaturatur ,ferem ,residoc,. ,sioc ,"ripariter
+",rue ,subido ,despat,’ ,,,er ,tundem ,,se ,cancrum,". 
+","DO
+",pardo,".
+",Uterus ,,"e	
+","geniarum
+",utm ,"acleo
+",distinc,. ,"cr
+",cp ,,,,,,,ad ,"stang
+",,nem,. ,"satud
+",emma ,,admo,,,,,".
+",ver ,turt ,"leo
+",pardus ,"grad
+",uterno ,,,leene ,nascatur ,et ,pardi,", ",et ,ternam ,cognomen ,efficit,".
+",fitcuf ,et ,plenis ,,,,in ,macrual ,historia ,distur,. ,Leonem ,unum ,,,,"par
+",,da ,,aur ,partum ,et ,leena ,conuature ,,et ,geniros ,,degeneres,
+gpt-4o_with_transkribus,distincta ,maculis,. ,virtute ,et ,velocitate ,mirabilis,. ,,ex ,"cui
+",,nomine ,flumen ,Tigris ,appellatur ,quia ,,,rapidissimus ,"sit
+",,omnium ,fluminum,. ,has ,magis ,humana ,gignit,. ,"Tigris
+",,,ubi ,vacuum ,rapte ,sobolis ,repperit ,cubile,: ,ilico ,"rapto
+",,ris ,vestigiis ,insistit,. ,At ,ille ,quamvis ,equo ,vectus ,fugaci,", ","vi
+",,dens ,in ,velocitate ,fere ,se ,superari,", ",nec ,evadendi ,ullum ,"sub
+",,petere ,sibi ,posse ,subsidium,: ,ternam ,huiusmodi ,,fraude ,"mo
+",,litur,. ,Ubi ,se ,contiguum ,viderit,: ,speram ,de ,vitro ,iacit,".
+",Et ,illa ,imagine ,sui ,luditur ,,et ,sobolem ,putat,. ,"Revocat
+",,impetum ,colligit ,secum ,desiderans,. ,Rursus ,nam ,"specie
+",recenta,,", ",totis ,se ,ad ,comprehendendum ,equitem ,"viribus
+",,fundit,", ",et ,iracundie ,stimulo ,velociter ,fugienti ,imminet,".
+",Frum ,ille ,spere ,obiectu ,sequentem ,retardat,", ",nec ,tamen ,"seclu
+",,tatem ,matris ,memoria ,fraudis ,excludit,. ,Cassata ,"versat
+",,ymaginem,", ",,,et ,quia ,captura ,fecum ,residet,. ,Sicque ,,"pietatis
+",,sue ,studio ,decepta,: ,et ,vindictam ,amittit ,et ,pignus,. ,"De
+",pardo,. ,Pardus ,"est
+",genuitate ,varius ,"et
+",,velocissimus,. ,,,,,et ,"pre
+",,ceps ,ad ,sanguinem,,,. ,"saltat
+",,enim ,ad ,modum ,,,turti,. ,,,"leo
+",pardus ,"grad
+",utero ,,,leene ,nascitur ,et ,pardi,. ,et ,tertiam ,originem ,efficit,".
+",sicut ,et ,plenius ,,,,in ,naturali ,historia ,dicit,. ,Leonem ,num ,,,,"par
+",,da,. ,aut ,partum ,,leena ,concumbere,. ,et ,ex ,utroque ,degeneres,
