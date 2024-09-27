@@ -1,0 +1,13 @@
+input_pdf: 'path/to/input.pdf'
+output_dir: 'path/to/output'
+
+transkribus:
+  api_url: 'https://transkribus.eu/TrpServer/rest'
+  username: 'your_username'
+  password: 'your_password'
+  collection_id: 'your_collection_id'
+
+openai:
+  api_key: 'your_openai_api_key'
+  example_output_path: 'path/to/example_output.txt'
+  example_image_path: 'path/to/example_image.jpg'
